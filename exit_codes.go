@@ -1,0 +1,6 @@
+package main
+
+const (
+  EXIT_CODE_TCPDUMP_FAILED_TO_START = -1
+  EXIT_CODE_CANNOT_OPEN_TRUNCATE_FILE = -2
+)
